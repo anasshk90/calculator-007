@@ -1,0 +1,53 @@
+.main{
+    border: 2px solid grey;
+    width: 800px;
+    margin: 0 auto;
+height: 400px;
+box-shadow: 2px 2px 5px black;
+background-color: lemonchiffon;
+}
+.result{
+    width: 98%;
+    background-color:gray;
+    color:aqua;
+    margin-top: 5px;
+    margin-left: 2px;
+    box-shadow: 2px 2px 5px black;
+    height: 80px;
+font-size: 40pt;
+    
+}
+.clear{
+    width: 48%;
+    color:burlywood;
+    background-color: aqua ;
+    box-shadow: 2px 0px 4px  ;
+    margin-top: 10px;
+    margin-left: 9px;
+    margin-bottom: 5px;
+    height: 80px;
+    font-size: 38pt;
+
+}
+.btn{
+    background-color: gray;
+    width: 150px;
+    margin: 1px;
+    box-shadow: 2px 2px 4px black;
+    color: aqua;
+    height: 68px;
+    margin-left: 5px;
+    font-size: 36pt;
+    border-style: inherit;
+    
+}
+.halfbtn{
+    background-color: gray;
+    width: 96px;
+    margin-top: 5px;
+    box-shadow: 2px 2px 4px black;
+    
+}
+.foot{
+    margin-bottom: 5px;
+}
